@@ -1,1 +1,55 @@
-# deportes.m3u
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn u n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-bK0BvI_sCntARVdbEcpPvfyqGhI8q9h8CXBUTrIwjpG/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn sec
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-aI12Bm_Xoi1oR0fc76y01oacgHlWtFAy747UL8Ltq3Q/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",adrenalina n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaqkP4qu25fGaxlgvW66Y5MY/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",afizzionados n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaqeOYWby0b_Ea1RfmaLe8rc/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",aym sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaoH4E_nLY0OcLtD0pIP_lEM/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",bein sports ñ n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvar0acwy-OJpydhZB887K3zl/ts
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes mx",bein sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaruNXfVu8Wvk-1rbqzQNxcD/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",claro sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaq3MPYYRnlQ__ZB70kuz9sk/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn 1 n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaobSI_9ZGrIlxcmrfvDmpfF/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn 2 n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvapnyfK1BCeNsqjdgcS7KG1k/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn 3 n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaocJ8EvZbw1dYSt3VghVUek/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn plus n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaqbX1KaMQp1r5dNdTgioDa2/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",espn deportes n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaqksTHukR3weQcfVivXEcl3/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",fox deportes n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaoij8tdMjYt6_yV0kGGNB34/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",fox sports 1 n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaq-bdR3hS47uViiwv_4fLvd/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",fox sports 2 n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvao6higaJ2KcmLYpVulg2gb2/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",fox sports 3 n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvapaESmy1Q-mwKSx0oDX88Nu/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",golf channel n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaruS1vZWmQ1_hdrJiCg3jMg/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",nfl network n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvarVS36mB2rDwVidskGUJnlT/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",usa outdoor channel n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvaoap5ALde0QbD7y7V141Ku4/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",tudn mx event
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvapy-51K5ZLZZhO3GoLL3ygk/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",tudn usa n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvap2JcI7nyc9bFepZebD6M1W/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",tvc deportes n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-ZlgeYCKH5rD70I90bLtvap7sZ9yH_YZNg0BjK1fkZ_y/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",argentina tyc sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-X601gSfSp1YIManhsOHZWIBAsRW9ZKVdoXGXzqxnBh2/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",ufc fight pass n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-X601gSfSp1YIManhsOHZWLv55niPGpPu8RDT9thevwt/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",win sports n
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-X601gSfSp1YIManhsOHZWK3geRaoHDmsnsc4ksX9BMS/ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes mx",Win Sports + (Plus)
+http://xgtv.club:8080/play/dGH8sPDFzdo6kzqKSReS-c-TKikXPwoJJaEuYt1ZHPVcKVoJdy7kAO47ip7wBUPY/ts
